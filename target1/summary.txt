@@ -1,0 +1,4 @@
+completed in 2023/1/24 18:39
+
+1.we can use push and ret instruction to get the address we need.
+2.After we execute the ret instruction, we pass the top stack element to %eip while unstacking.
